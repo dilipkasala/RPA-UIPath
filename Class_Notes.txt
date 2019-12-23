@@ -1,0 +1,91 @@
+Session 2
+
+Sequence - Name, Age, PhoneNo
+
+Flowchart - Courses
+
+Santosh , 
+Souvnik, 
+atharva , 
+dilip
+Sarvanan,
+shyam
+
+"https://www.simplilearn.com/search?tag="  + Course + "#/&item_type=course,bundle"
+
+
+
+Age calculator - Year comparison ( FlowChart)
+
+Also do the leap year example , ask for a new year again
+
+Cint(Year)
+
+State Machine
+Random Number generator
+new Random().Next(1,10)
+
+3 - Try a larger Number
+7 - Try a smaller Number
+5 - Congrats, you have guessed correctly
+
+
+facebook.com
+TypeInto 
+
+
+
+
+Get text
+Highlight -red - HTML Forms
+data extract 
+https://www.worldometers.info/world-population/population-by-country/
+
+
+Module 3 Notes
+Switch - Give MonthNumber Example
+FlowSwitch
+
+UI Elements
+http://www.echoecho.com/htmlforms09.htm
+check
+
+Select Item
+http://www.classifiedsgiant.com/273-cars/listings.html http://www.nasdaq.com/ 
+
+
+https://www.slideshare.net/NVIDIA/top-5-deep-learning-and-ai-stories-august-9-2019
+take screenshot, get text, save image, click, close browser
+
+System Elements
+get environment folder, beep, create directory, create file
+Now.ToString("yyyy-MM-dd HH mm tt")
+
+PowerShellDemo
+Get text through Input DialogBox 
+settoclipboard 
+send hotkey(inside open app notepad)
+save and close notepad
+---------
+invoke power shell to move notepad "mi"
+Path
+Destination
+----------
+
+Arguments 
+My first argument ( out ) + hello 
+
+Application Integration 
+Email Automation
+Input Source- 
+Output Source-
+
+SMTP : simple mail transfer protocol - only for sending mail : 465, smtp.gmail.com ; 25, smtp.live.com(hotmail)
+POP3 : post office protocol ( only for reading mails) - outdated
+IMAP : internet mail access protocol for reading mails : 993, imap.gmail.com
+Outlook : 
+Exchange : MS Solution for Enterprises
+IBM Lotus Notes : 
+
+---------
+
